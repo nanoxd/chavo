@@ -1,1 +1,1 @@
-web: bin/hubot -a slack -n Chavo
+web: bin/hubot -a slack -n Hubot
