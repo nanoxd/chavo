@@ -1,9 +1,1 @@
-[
-  "redis-brain.coffee",
-  "revx-quotes.coffee",
-  "dealwithit.coffee",
-  "giphy.coffee",
-  "github-credentials.coffee",
-  "imdb.coffee",
-  "quote.coffee"
-]
+["redis-brain.coffee", "revx-quotes.coffee", "dealwithit.coffee", "giphy.coffee", "github-credentials.coffee", "quote.coffee"]
