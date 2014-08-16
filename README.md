@@ -1,4 +1,6 @@
-# Hubot
+# Chavo
+
+![chavo](https://raw.githubusercontent.com/nanoxd/chavo/master/avatar.jpg)
 
 This is a version of GitHub's Campfire bot, hubot. He's pretty cool.
 
