@@ -21,9 +21,12 @@
     "url": "https://github.com/github/hubot.git"
   },
   "dependencies": {
+    "htmlparser": "^1.7.6",
     "hubot": ">= 2.6.0 < 3.0.0",
     "hubot-scripts": ">= 2.5.0 < 3.0.0",
-    "hubot-slack": "git://github.com/slackhq/hubot-slack"
+    "hubot-slack": "git://github.com/slackhq/hubot-slack",
+    "scraper": "0.0.9",
+    "soupselect": "^0.2.0"
   },
   "engines": {
     "node": ">= 0.8.x",
