@@ -1,1 +1,1 @@
-web: bin/hubot --adapter slack --n chavo
+hubot: bin/hubot --adapter slack --n chavo
